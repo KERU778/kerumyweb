@@ -1,0 +1,50 @@
+
+header{
+    color: rgb(117, 126, 255);
+    text-align: center;
+    font-size: 50px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+body{
+    background-image: url(../image/Frieren-Beyond-Journeys-End-1\ \(1\).webp);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.Frieren{
+    text-align: center;
+    color: rgb(123, 123, 255);
+    font-size: 50px;
+   
+}
+.Fern{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+}
+.Stark{
+    text-align: center;
+    color: brown;
+    font-size: 50px;
+}
+.FR{
+
+    text-align: center;
+    color: rgb(0, 0, 0);
+    background-color: white;
+}
+.Frieren01{
+    background-color: white;
+}
+.Fern01{
+    background-color: white;
+}
+.Stark01{
+    background-color: white;
+}
